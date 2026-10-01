@@ -1,0 +1,2 @@
+# CEMU
+Cool Emulator
